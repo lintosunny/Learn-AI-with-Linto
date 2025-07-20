@@ -17,9 +17,11 @@ Hey everyone! My name is **Linto**, and this repository is my dedicated space fo
 My goal here is to make my AI learning journey transparent and organized, both for myself and potentially for anyone else interested in following along or picking up some tips!
 
 
-> “Learning is a journey, not a race. One line of code at a time.”
+
 
 ## My Learning Path
 <p align="center">
   <img src="/images/learning_path.png" alt="learning_path" width="1000" height="300">
 </p>
+
+> “Learning is a journey, not a race. One line of code at a time.”
