@@ -21,5 +21,5 @@ My goal here is to make my AI learning journey transparent and organized, both f
 
 ## My Learning Path
 <p align="center">
-  <img src="/images/learning_path.png" alt="learning_path" width="800" height="200">
+  <img src="/images/learning_path.png" alt="learning_path" width="1000" height="300">
 </p>
