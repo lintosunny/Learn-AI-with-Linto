@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/lintons">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
   </a>
   <img src="https://img.shields.io/badge/Build%20by-Linto%20Sunny-blue?style=flat&logo=github" alt="Build by">
@@ -20,4 +20,6 @@ My goal here is to make my AI learning journey transparent and organized, both f
 > “Learning is a journey, not a race. One line of code at a time.”
 
 ## My Learning Path
-![path](/images/ai%20bootcamp.png)
+<p align="center">
+  <img src="/images/learning_path.png" alt="learning_path" width="800" height="200">
+</p>
