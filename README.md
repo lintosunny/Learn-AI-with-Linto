@@ -4,8 +4,6 @@
   <a href="https://www.linkedin.com/in/lintons">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
   </a>
-  <img src="https://img.shields.io/badge/Build%20by-Linto%20Sunny-blue?style=flat&logo=github" alt="Build by">
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat" alt="PRs Welcome">
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat" alt="In Progress">
 </p>
 
